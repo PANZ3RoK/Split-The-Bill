@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TipAppAssignment413.6</string>
+    <string name="split_the_bill">Split The Bill</string>
+    <string name="calculate">Calculate</string>
+    <string name="number_of_guests">Number Of Guests</string>
+    <string name="enter_your_total">Enter Your Total</string>
+    <string name="please_let_us_know_how_we_did">Please Let Us Know How We Did</string>
+    <string name="thank_you_for_coming">Thank You For Coming</string>
+    <string name="continue1">Continue</string>
+
+    <string-array name="tipAmount">
+        <item>Excellent (22% tip)</item>
+        <item>Average (18% tip)</item>
+        <item>Poor (14% tip)</item>
+    </string-array>
+
+    <string-array name="values">
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>0.0</item>
+    </string-array>
+
+
+
+</resources>
